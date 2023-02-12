@@ -1,0 +1,3 @@
+package AnotherFunc
+
+//Важный коммент
